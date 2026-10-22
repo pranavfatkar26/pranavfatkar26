@@ -22,7 +22,12 @@
 
 [AI/ML Engineer | Python, Deep Learning & LLMs | Explore my projects and build the future with AI!]
 
-[LinkedIn](www.linkedin.com/in/pranav-fatkar-8318412b2) · [Portfolio](url) · [Email](pranavfatkar77@gmail.com) · [LeetCode](https://leetcode.com/u/Pranav_Fatkar/) · [Kaggle](https://www.kaggle.com/pranavfatkar)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-fatkar-8318412b2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavfatkar77@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pranav_Fatkar/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pranavfatkar)
 
 
 ## Featured: MahaGuru AI
