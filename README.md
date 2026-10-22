@@ -1,9 +1,9 @@
-# Hi, I'm [Your Name] 👋
-[City, Country] | [Your Role] | [Degree, Grad Year] | [Optional: Ex-Founder / Current Role]
+# Hi, I'm [Pranav] 👋
+[Pune Maharashtra,India] | [AIML Engineer] | [BE,Artificial Intelligence & Data Science] | [Ex-@mahaguru.ai]
 
 [One-line tagline: what you build and what you value.]
 
-[LinkedIn](url) · [Portfolio](url) · [Email](mailto:you@email.com) · [LeetCode](url) · [Kaggle](url)
+[LinkedIn](www.linkedin.com/in/pranav-fatkar-8318412b2) · [Portfolio](url) · [Email](pranavfatkar77@gmail.com) · [LeetCode](https://leetcode.com/u/Pranav_Fatkar/)) · [Kaggle](https://www.kaggle.com/pranavfatkar)
 
 🟢 Open for [internships / full-time / collaborations]
 
