@@ -1,5 +1,5 @@
 # Hi, I'm Pranav 👋
-**Pune Maharashtra,India** | **AIML Engineer** | **BE,Artificial Intelligence & Data Science'27** |** Ex-@mahaguru.ai**
+**Pune Maharashtra,India** | **AIML Engineer** | **BE,Artificial Intelligence & Data Science'27** | Ex-@mahaguru.ai
 
 [One-line tagline: what you build and what you value.]
 
