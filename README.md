@@ -36,7 +36,7 @@
 **An open-source AI mentor and personalised classroom for college students.** Live, tested and deployed.
 
 <a href="https://mahaguru-ai.onrender.com">
-  <img src="https://raw.githubusercontent.com/aviraj1805/MahaGuru-V1/main/docs/screenshots/home.png" alt="MahaGuru AI homepage" width="100%" />
+  <img src="https://raw.githubusercontent.com/pranavfatkar26/MahaGuru.AI/main/docs/screenshots/home.png" alt="MahaGuru AI homepage" width="100%" />
 </a>
 
 | | |
@@ -47,8 +47,8 @@
 | **Quality** | pytest on SQLite and PostgreSQL, Playwright end-to-end tests on desktop and mobile, CI on every push, and a 24-scenario evaluation suite including crisis cases |
 
 [![Live demo](https://img.shields.io/badge/Live%20demo-mahaguru--ai.onrender.com-1D4ED8?style=for-the-badge)](https://mahaguru-ai.onrender.com)
-[![Source](https://img.shields.io/badge/Source-MahaGuru--V1-181717?style=for-the-badge&logo=github)](https://github.com/aviraj1805/MahaGuru-V1)
+[![Source](https://img.shields.io/badge/Source-MahaGuru.AI-181717?style=for-the-badge&logo=github)](https://github.com/pranavfatkar26//MahaGuru.AI)
 
-[Research behind it](https://mahaguru-ai.onrender.com/research) · [Architecture](https://github.com/aviraj1805/MahaGuru-V1/blob/main/docs/architecture.md) · [Evaluation method](https://github.com/aviraj1805/MahaGuru-V1/blob/main/docs/evaluation.md) · [Screenshots](https://github.com/aviraj1805/MahaGuru-V1#screenshots)
+[Research behind it](https://mahaguru-ai.onrender.com/research) · [Architecture](https://github.com/pranavfatkar26//MahaGuru.AI/blob/main/docs/architecture.md) · [Evaluation method](https://github.com/pranavfatkar26//MahaGuru.AI/blob/main/docs/evaluation.md) · [Screenshots](https://github.com/pranavfatkar26//MahaGuru.AI#screenshots)
 
 ---
